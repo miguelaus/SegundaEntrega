@@ -1,4 +1,4 @@
-# desafiogithub
-Repo para subir el Desafio de GitHub con bootstrap 
+# Segunda Entrega Proyecto Final
+Repo para subir la segunda entrega 
 
 ESTE REPOSITORIO ES DEL PROYECTO  MUSICOTERAPIA-RVILLA 
